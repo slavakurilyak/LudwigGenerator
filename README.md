@@ -10,7 +10,7 @@ Operating machine learning models in production is costly. According to [Stripe]
 
 How can ML practioners minimize (or eliminate) the management of ML models in production? By using serverless! With serverless architectures, ML practioners are empowered to focus on what matters most - delivering business value, not managing servers.
 
-With LudwigGenerator, ML practioners can quickly create low-code ML models (image classification, text classification), deploy them onto serverless architectures ([AWS Lambda](https://aws.amazon.com/lambda/), [AWS DynamoDB](https://aws.amazon.com/dynamodb/)), powered by the [serverless framework](https://serverless.com).
+With LudwigGenerator, ML practioners can quickly create low-code ML models (image classification, text classification) and deploy them onto serverless services ([AWS Lambda](https://aws.amazon.com/lambda/), [AWS DynamoDB](https://aws.amazon.com/dynamodb/)) powered by the [serverless framework](https://serverless.com).
 
 ## Usage
 
