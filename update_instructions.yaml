@@ -1,0 +1,8 @@
+- command: update 
+  path: functions.hello
+  value:
+    handler: handler.hello
+    events:
+      - http:
+          path: hello
+          method: get
